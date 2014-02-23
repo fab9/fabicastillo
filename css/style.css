@@ -1,5 +1,5 @@
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   color: #FAF3BC;
   background: #56858b url('img/bg-texture.jpg') repeat;
 }
@@ -7,6 +7,11 @@ body {
 a {
   color: #4FB69F;
   text-decoration: none;
+}
+
+h1, h2 {
+  font-family: 'Arapey', serif;
+  color: #FAF3BC;
 }
 
 h1 {
