@@ -37,6 +37,15 @@ h2 {
   background-color: #4CC4A7;
 }
 
+.hover {
+display: inline-block;
+transition-duration: .5s;
+transition-property: -webkit-transform;
+-webkit-tap-highlight-color: transparent;
+-webkit-transform: translateZ(0);
+box-shadow: 0 0 1px transparent;
+}
+
 ul.nav {
   margin: 120px 0 0 0;
   list-style: none;
