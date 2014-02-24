@@ -16,7 +16,9 @@
 .grid_9 { width: 745px; }
 .grid_10 { width: 830px; }
 .grid_11 { width: 915px; }
-.grid_12 { width: 1000px; }
+.grid_12 {
+	width: 1000px;
+}
 
 .grid_1,
 .grid_2,
@@ -33,6 +35,7 @@
 	margin: 0 20px 60px 0;
 	float: left;
 	display: block;
+	border-color: #ad4844;
 }
 
 .alpha{margin-left:0px;}
