@@ -77,7 +77,6 @@ ul.nav li a {
 	margin-bottom: 80px;
 }
 
-
 #intro {
 	margin-top: 0px;
 	margin-right: 0;
@@ -97,8 +96,10 @@ ul.nav li a {
 
 #heart { 
 	position: relative;
-	margin-left: 35px;
+	margin-left: 38px;
+	bottom: -13px;
 }
+
 #heart:before, #heart:after {
 	position: absolute;
   	content: "";
@@ -141,12 +142,4 @@ ul.nav li a {
 	border: 8px solid #f26663;
 	margin: 0 0 20px 0;
 	border-radius: 4px;
-}
-
-
-#copyright {
-  border-top: 8px solid #252525;
-  padding: 10px 0px;
-  margin: 55px 0px;
-  text-align: center;
 }
